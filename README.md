@@ -3,6 +3,6 @@ New style for app design simple bottom navigation UI made in Jetpack Compose.ðŸ˜
 
 <p float="left">
 
-<img src="https://user-images.githubusercontent.com/25154589/147541803-e2e48641-6491-415f-8c25-262ff4560d7b.png" width="200" />
-
+<img src="https://user-images.githubusercontent.com/25154589/147541975-b6066aba-134a-483e-8b74-98b8df47a0ac.jpg" width="200" />
+ 
  </p>
